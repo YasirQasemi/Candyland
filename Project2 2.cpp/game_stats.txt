@@ -1,0 +1,28 @@
+Player One Stats:
+Name: Yasir
+Stamina: 100
+Gold: 80
+Candies: 
+breezy butterscotch
+lucky licorice
+toxic taffy
+toxic taffy
+Shield
+
+
+
+
+Player Two Stats:
+Name: PlayerTwo
+Stamina: 77
+Gold: 10
+Candies: 
+Breezy Butterscotch
+Lucky Licorice
+Fearsome Fudge
+Crimson Crystal
+Jellybean of Vigor
+Jellybean of Vigor
+Jellybean of Vigor
+
+

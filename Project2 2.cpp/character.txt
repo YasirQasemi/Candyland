@@ -1,0 +1,4 @@
+BillyBom|100|20|Frosty Fizz,Toxic Taffy,Bubblegum Blast,Caramel Comet,Lucky Licorice
+Stank|100|30|Breezy Butterscotch,Lucky Licorice,Fearsome Fudge,Crimson Crystal
+Poom|100|35|Bubblegum Blast,Caramel Comet,Fearsome Fudge,Crimson Crystal
+Yo-Yo|100|40|Breezy Butterscotch,Lucky Licorice,Toxic Taffy
