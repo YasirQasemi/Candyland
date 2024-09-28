@@ -1,1 +1,3 @@
-Note that this was a first year project so there is very inefficent code as of right now
+First year project
+-Couldn't use pointers so it was very inefficent
+
